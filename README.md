@@ -68,9 +68,7 @@ pip install -r requirements.txt
 
 A file named .env is necessary to run the application. This file contains sensitive environment variables holding credentials such as the database connection string, username, password, etc.
 
-```
-EDIT THIS PART
-```
+For the use of this project, the env file is sent to the admins/managers via the team's messenger channel (webstars).
 
 ### Step 5: Running the software
 
